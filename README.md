@@ -1,0 +1,1 @@
+I have developed a daily reporting program in Python using free libraries. It mimics Chrome Developer Tools to access a system and handle backend operations. Similar to a cron job, it accesses your website daily, takes a screenshot for the report and then sends it via WhatsApp.
